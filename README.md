@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Fathima Jamsath 👋
 
-<!--
-**FathimJamsath/FathimJamsath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Information Technology Undergraduate at OUSL
 
-Here are some ideas to get you started:
+💻 Skills
+- Java
+- MySQL
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Project
+- Pharmacy Inventory System
+
+🌱 Currently Learning
+- Software Engineering
+- Database Systems
+- Java Programming
+
+📫 Connect With Me
+- GitHub: github.com/FathimJamsath
