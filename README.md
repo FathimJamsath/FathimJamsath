@@ -1,55 +1,130 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="images/banner.png" width="100%" alt="Fathima Jamsath Banner">
 </p>
-# Hi, I'm Fathima Jamsath 👋
 
-🎓 B.Sc. Information Technology Undergraduate at The Open University of Sri Lanka
+<h1 align="center">Hi 👋, I'm Fathima Jamsath</h1>
 
-💻 Passionate about Software Development, Databases, and Technology
+<h3 align="center">
+B.Sc. Information Technology Undergraduate
+</h3>
 
----
-
-## 🚀 Technologies & Tools
-
-- Java
-- MySQL
-- HTML
-- CSS
-- Git & GitHub
-- JDBC
-- IntelliJ IDEA
-- VS Code
+<p align="center">
+Aspiring Software Developer • Data Science Enthusiast
+</p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌟 About Me
 
+I am a motivated and enthusiastic Information Technology undergraduate at the Open University of Sri Lanka (OUSL) with a strong interest in software development, database management, and web technologies.
+
+I enjoy learning new technologies, solving real-world problems, and building practical software solutions through continuous learning and hands-on projects.
+
+---
+
+## 🌐 Portfolio Website
+
+🔗 **Visit My Portfolio**
+
+https://github.com/FathimJamsath
+
+---
+
+## 🛠 Skills & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode" />
+
+</p>
+
+### Additional Skills
+
+- Database Management Systems
 - Software Engineering
-- Database Systems
-- Java Programming
-- Web Development
+- Computer Networks
+- Systems Analysis & Design
+- Problem Solving
+- Teamwork
+- Communication Skills
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
-### 💊 Pharmacy Inventory System
+### Pharmacy Inventory System
 
-A desktop-based Pharmacy Inventory Management System developed using Java Swing, MySQL, and JDBC.
+<p align="center">
+  <img src="images/pharmacy-dashboard.jpeg" width="800">
+</p>
 
-**Features**
+Desktop-based Pharmacy Inventory Management System developed using Java Swing and MySQL.
+
+### Key Features
+
 - Medicine Management
 - Supplier Management
 - Stock Management
 - Billing System
+- Sales Tracking
+- User Management
+
+### Technologies Used
+
+- Java
+- Java Swing
+- MySQL
+- JDBC
+
+🔗 Repository:
+
+https://github.com/FathimJamsath/Pharmacy-Inventory-System
+
+---
+
+## 📚 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- Software Engineering
+- Database Management Systems
+- Web Development
+- Git & GitHub
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FathimJamsath&show_icons=true&theme=default"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimJamsath&layout=compact&theme=default"/>
+
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: github.com/FathimJamsath
-- LinkedIn: (https://www.linkedin.com/in/fathima-jamsath-7280a3397/)
+<p align="center">
+
+<a href="mailto:fathijams14@gmail.com">
+<img src="https://img.shields.io/badge/Email-910029?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/fathima-jamsath-7280a3397/">
+<img src="https://img.shields.io/badge/LinkedIn-393F4B?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/FathimJamsath">
+<img src="https://img.shields.io/badge/GitHub-393F4B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
 
 ---
 
-⭐ Always learning and building new projects.
+<p align="center">
+⭐ Thank you for visiting my GitHub profile!
+</p>
