@@ -26,7 +26,7 @@ I enjoy learning new technologies, solving real-world problems, and building pra
 
 🔗 **Visit My Portfolio**
 
-https://github.com/FathimJamsath
+https://fathimjamsath.github.io/FathimJamsath/
 
 ---
 
