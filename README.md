@@ -4,96 +4,91 @@
 
 <h1 align="center">Hi 👋, I'm Fathima Jamsath</h1>
 
-<h3 align="center">
-B.Sc. Information Technology Undergraduate
-</h3>
+<h3 align="center">B.Sc. Information Technology Undergraduate</h3>
 
 <p align="center">
 Aspiring Software Developer • Data Science Enthusiast
 </p>
 
----
+<br>
 
-## 🌟 About Me
-
-I am a motivated and enthusiastic Information Technology undergraduate at the Open University of Sri Lanka (OUSL) with a strong interest in software development, database management, and web technologies.
-
-I enjoy learning new technologies, solving real-world problems, and building practical software solutions through continuous learning and hands-on projects.
-
----
-
-## 🌐 Portfolio Website
-
-🔗 **Visit My Portfolio**
-
-https://fathimjamsath.github.io/FathimJamsath/
-
----
-
-## 🛠 Skills & Tools
+<h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode" />
-
+I am a motivated and enthusiastic Information Technology undergraduate at the Open University of Sri Lanka (OUSL) with a strong interest in software development, database management, and web technologies.
 </p>
 
-### Additional Skills
+<p align="center">
+I enjoy learning new technologies, solving real-world problems, and building practical software solutions through continuous learning and hands-on projects.
+</p>
 
-- Database Management Systems
-- Software Engineering
-- Computer Networks
-- Systems Analysis & Design
-- Problem Solving
-- Teamwork
-- Communication Skills
+<br>
 
----
+<h2 align="center">🌐 Portfolio Website</h2>
 
-## 🚀 Featured Project
+<p align="center">
+<a href="https://fathimjamsath.github.io/FathimJamsath/">
+🌐 Visit My Portfolio
+</a>
+</p>
 
-### Pharmacy Inventory System
+<br>
+
+<h2 align="center">🛠 Skills & Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,mysql,git,github,vscode" />
+</p>
+
+<h3 align="center">Additional Skills</h3>
+
+<p align="center">
+Database Management Systems • Software Engineering • Computer Networks • Systems Analysis & Design • Problem Solving • Teamwork • Communication Skills
+</p>
+
+<br>
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<h3 align="center">Pharmacy Inventory System</h3>
 
 <p align="center">
   <img src="images/pharmacy-dashboard.jpeg" width="800">
 </p>
 
+<p align="center">
 Desktop-based Pharmacy Inventory Management System developed using Java Swing and MySQL.
+</p>
 
-### Key Features
+<h3 align="center">Key Features</h3>
 
-- Medicine Management
-- Supplier Management
-- Stock Management
-- Billing System
-- Sales Tracking
-- User Management
+<p align="center">
+Medicine Management • Supplier Management • Stock Management • Billing System • Sales Tracking • User Management
+</p>
 
-### Technologies Used
+<h3 align="center">Technologies Used</h3>
 
-- Java
-- Java Swing
-- MySQL
-- JDBC
+<p align="center">
+Java • Java Swing • MySQL • JDBC
+</p>
 
-🔗 Repository:
+<p align="center">
+<a href="https://github.com/FathimaJamsath/Pharmacy-Inventory-System">
+🚀 View Project Repository
+</a>
+</p>
 
-https://github.com/FathimJamsath/Pharmacy-Inventory-System
+<br>
 
----
+<h2 align="center">📚 Currently Learning</h2>
 
-## 📚 Currently Learning
+<p align="center">
+Java Programming • Data Structures & Algorithms • Software Engineering • Database Management Systems • Web Development • Git & GitHub
+</p>
 
-- Java Programming
-- Data Structures & Algorithms
-- Software Engineering
-- Database Management Systems
-- Web Development
-- Git & GitHub
+<br>
 
----
-
-## 📫 Connect With Me
+<h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
 
@@ -105,13 +100,13 @@ https://github.com/FathimJamsath/Pharmacy-Inventory-System
 <img src="https://img.shields.io/badge/LinkedIn-393F4B?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/FathimJamsath">
+<a href="https://github.com/FathimaJamsath">
 <img src="https://img.shields.io/badge/GitHub-393F4B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
 
----
+<br>
 
 <p align="center">
 ⭐ Thank you for visiting my GitHub profile!
