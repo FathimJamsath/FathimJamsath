@@ -96,11 +96,11 @@ https://github.com/FathimJamsath/Pharmacy-Inventory-System
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FathimJamsath&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FathimaJamsath&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimJamsath&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaJamsath&layout=compact&theme=default" />
 </p>
 
 ## 📫 Connect With Me
