@@ -28,7 +28,11 @@ I enjoy learning new technologies, solving real-world problems, and building pra
 
 <p align="center">
 <a href="https://fathimjamsath.github.io/FathimJamsath/">
-🌐 Visit My Portfolio
+<p align="center">
+<a href="https://fathimjamsath.github.io/FathimJamsath/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-910029?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+</p>
 </a>
 </p>
 
