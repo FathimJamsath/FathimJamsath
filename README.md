@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 # Hi, I'm Fathima Jamsath 👋
 
 🎓 B.Sc. Information Technology Undergraduate at The Open University of Sri Lanka
