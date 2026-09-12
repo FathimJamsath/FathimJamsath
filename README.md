@@ -28,11 +28,7 @@ I enjoy learning new technologies, solving real-world problems, and building pra
 
 <p align="center">
 <a href="https://fathimjamsath.github.io/FathimJamsath/">
-<p align="center">
-<a href="https://fathimjamsath.github.io/FathimJamsath/">
 <img src="https://img.shields.io/badge/Visit%20Portfolio-910029?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-</p>
 </a>
 </p>
 
@@ -57,7 +53,7 @@ Database Management Systems • Software Engineering • Computer Networks • S
 <h3 align="center">Pharmacy Inventory System</h3>
 
 <p align="center">
-  <img src="images/pharmacy-dashboard.jpeg" width="800">
+  <img src="images/pharmacy-dashboard.jpeg" width="800" alt="Pharmacy Inventory System">
 </p>
 
 <p align="center">
@@ -78,7 +74,7 @@ Java • Java Swing • MySQL • JDBC
 
 <p align="center">
 <a href="https://github.com/FathimaJamsath/Pharmacy-Inventory-System">
-🚀 View Project Repository
+<img src="https://img.shields.io/badge/View%20Project-393F4B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
