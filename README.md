@@ -73,7 +73,7 @@ Java • Java Swing • MySQL • JDBC
 </p>
 
 <p align="center">
-<a href="https://github.com/FathimaJamsath/Pharmacy-Inventory-System">
+<a href="https://github.com/FathimJamsath/Pharmacy-Inventory-System.git">
 <img src="https://img.shields.io/badge/View%20Project-393F4B?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
